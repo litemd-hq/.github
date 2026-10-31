@@ -1,3 +1,2 @@
-## Lightweight Markdown app with easy sync between devices
-
-WIP Since October 25 2026
+Lightweight markdown server with clients
+WIP
